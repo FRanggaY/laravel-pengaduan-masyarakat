@@ -12,14 +12,15 @@ Coming Soon
 ```
 composer install
 ```
+```
 composer update
 ```
 ```
 composer require mpdf/mpdf
 ```
-```
+
 copas env -> bikin dbname=laravel_pengaduan -> php artisan migrate
-```
+
 ```
 npm install & npm run dev
 ```
