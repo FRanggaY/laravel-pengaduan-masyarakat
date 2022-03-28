@@ -21,6 +21,8 @@ composer require mpdf/mpdf
 
 copas env -> bikin dbname=laravel_pengaduan -> php artisan migrate
 
+bikin seeder buat user 
+
 ```
 npm install & npm run dev
 ```
